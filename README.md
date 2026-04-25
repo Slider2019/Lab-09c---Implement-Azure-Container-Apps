@@ -1,4 +1,4 @@
-# 📘 Lab 09c - Implement Azure Container Apps
+# Lab 09c - Implement Azure Container Apps
 
 ![Fondo laboratorio](./images/FondoREADME.png)
 
