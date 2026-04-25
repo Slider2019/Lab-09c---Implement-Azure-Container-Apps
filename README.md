@@ -161,10 +161,12 @@ Con este paso nos aseguramos de que todos los recursos asociados al laboratorio 
 
 ## Contribuciones
 
-Este README fue adaptado y contextualizado para el curso **AZ-104 Microsoft Azure Administrator**, integrando explicaciones ampliadas y costos actualizados.
+Este README fue adaptado y enriquecido a partir de los materiales oficiales del laboratorio AZ-104.
+Se aceptan mejoras en diagramas, ejemplos de costos y traducciones adicionales.
 
 ---
 
 ## Licencia
 
-Este documento se distribuye bajo la licencia MIT. Puedes reutilizarlo y adaptarlo libremente con atribución correspondiente.
+Este contenido se basa en los laboratorios oficiales de Microsoft Learning para el examen AZ-104 Microsoft Azure Administrator.
+Uso educativo y de práctica profesional.
